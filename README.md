@@ -15,4 +15,4 @@ Aqui você encontra links úteis da turma:
 
 # Cachinhos
 
-🌐 Site disponível em: [cachinhos.github.io](https://cachinhos.github.io)
+🌐 Site disponível em: https://kaicki.github.io/cachinhos/
